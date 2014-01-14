@@ -171,7 +171,9 @@ Method
 Constructor 
 > A constructor (sometimes shortened to ctor) in a class is a special type of subroutine called to create an object.
 
-Inheritance > Inheritance is when an object or class is based on another object or class, using the same implementation.
+Inheritance 
+> Inheritance is when an object or class is based on another object or class, using the same implementation.
+
 Encapsulation 
 > Encapsulation is used to refer to one of two related but distinct notions, and sometimes to the combination thereof:
 A language mechanism for restricting access to some of the object's components.  
