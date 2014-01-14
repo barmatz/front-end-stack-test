@@ -194,7 +194,7 @@ JavaScript implements prototype inheritance.
 * sessionStorage - an HTML5 feature that stores data for one session.
 
 ### <a name="what-is-this"></a> What is this?
-this refers to the context of the current scope. Unless the scope is coming from the context of an object or was altered, this will refer to the global scope.
+`this` refers to the context of the current scope. Unless the scope is coming from the context of an object or was altered, `this` will refer to the global scope.
 
 ### <a name="what-is-the-difference-between-call-and-apply"></a> What is the difference between .call() and .apply()?
 Both are methods that belong to the Function prototype and execute a function. `.call()` passes a fixed number of arguments to the function where `.apply()` passes an array of arguments with an undetermined length.
